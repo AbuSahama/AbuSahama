@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @AbuSahama.
-- 👀 I’m interested in video editing, content creation, and tech projects.
-- 🌱 I’m currently pursuing a BS in Electronic Systems from IIT Madras.
-- 💞️ I’m looking to collaborate on video editing, tech-related content, or open-source electronics projects.
-- 📫 How to reach me: [bsahama7867321@gmail.com](mailto:bsahama7867321@gmail.com) 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can turn any boring concept into an engaging story through visuals!
+👋 Hi, I’m Abu Sahama.
 
-<!---
-AbuSahama/AbuSahama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Pursuing BS in Electronic Systems at IIT Madras.
+
+👀 Passionate about electronics, programming in C, video editing, and content creation.
+
+🌱 Exploring digital circuits, embedded systems, and IoT applications alongside creative media projects.
+
+💞️ Open to collaborate on tech projects, video editing, and open-source electronics initiatives.
+
+📫 Reach me at: bsahama7867321@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love transforming complex technical concepts into engaging visual stories!
